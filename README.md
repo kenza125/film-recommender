@@ -54,10 +54,6 @@ CineQuest is an intelligent movie recommendation system that combines **real dat
 
 ### Like System
 ![Like System](screenshots/likes.png)
----
-## Demo Video
-![DemoVideo](DemoVideo/demoVideo.mp4)
-
 
 ---
 
